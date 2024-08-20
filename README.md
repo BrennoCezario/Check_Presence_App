@@ -22,13 +22,13 @@
 ## Como Rodar o Projeto
 
 1. Clone o repositório:
-   ```bash
-   git clone https://github.com/seuusuario/presence-app.git
-   ```
+```bash
+git clone https://github.com/seuusuario/presence-app.git
+```
 2. Navegue até a pasta do projeto e instale as dependências do backend:
-  ```bash
-  composer install
-  ```
+```bash
+composer install
+```
 3. Instale as dependências do frontend:
 ```bash
 npm install
@@ -45,8 +45,8 @@ php artisan serve
 npm run dev
 ```
 
-##Contribuições
+## Contribuições
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou enviar pull requests para melhorar o projeto.
 
-##Licença
+## Licença
 Este projeto é licenciado sob a MIT License.
